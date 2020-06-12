@@ -1,0 +1,2 @@
+Aqui será colocado todos os diagramas de classes criado com os respectivos nomes entre () para podermos diferenciar
+a que projeto o diagrama faz referencia.
