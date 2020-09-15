@@ -1,0 +1,56 @@
+RF-1 Criação de contas (PF/PJ):
+
+O sistema disponibiliza a possibilidade de criação de contas (PF/PJ).
+
+RF-2 Atualizar Perfil (Empresarial/Pessoa Física):
+
+Está funcionalidade irá permitir que o usuário atualize seu perfil de acordo com sua preferência.
+
+RF-3 Buscar Empresas:
+
+O sistema irá buscar as melhores empresas e as que estão precisando no momento.
+
+RF-4 Filtro de Pesquisa:
+
+E feito um filtro de acordo com as especificações desejadas pelo usuário.
+
+RF-5 Sistema de Reputação:
+
+A aplicação conta com um sistema de reputação do empregador ou funcionário representado por estrelas (0/5).
+
+RF-6 Gerar contrato de prestação de serviços:
+
+É gerado um contrato de prestação de serviço pelo site para as duas partes.
+
+RF-7 Chat para contato:
+
+O sistema conta com um chat para a comunicação do funcionário e empregador em tempo real.
+
+RF-8 Renovar/Assinar
+
+O usuário pode renovar ou assinar um plano premium diretamente no site.
+
+RF-9 Alterar Tema:
+
+Altera o tema do sistema para Dark
+
+RF-10 Sugestão:
+
+A aplicação irá sugerir vagas ou funcionarios com maiores notas ou com base nas pesquisas anteriores.
+
+RF-11 Candidatar-se:
+
+O funcionário poderá candidatar – se para as vagas de seu interesse.
+
+RF-12 Escolher:
+
+Empresas podem escolher os melhores usuários e mandar propostas para eles.
+
+RF-13 Categoria:
+
+O sistema trabalha com categorias (Temporário/CLT/PJ).
+
+RF-14 Contato via WhatsApp:
+
+E possivel entrar em contato  com a empresa atraves da api iserida no sistema que torna possivel o contato por este meio de comunicação
+
