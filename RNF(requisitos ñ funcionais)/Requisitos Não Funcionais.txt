@@ -1,0 +1,51 @@
+RNF-1 Facil acesso:
+
+O sistema pode ser acessado de qualquer dispositvo com conexão a internet com pelo menos 40mb.
+ 
+RNF-2 Segurança:
+
+A aplicação mantem a segurança do usuario em todas as etapas que e preciso para utilizar o site.
+
+RNF-2 Possui dois tipos de acesso:
+
+PF(Pessoa Fisica), PJ(Pessoa Juridica).
+
+RNF-3 Cores :
+
+A aplicação conta com 3 cores principais Preto, Branco, Vermelho.
+
+RNF-4 Tempo de resposta:
+
+A aplicação demora em torno de 3s (segundos) para carregar a pagina.
+
+RNF-5 Falhas:
+
+Todo e qualquer tipo de falha será reportada para o suporte do site para a resolução do mesmo.
+
+RNF-6 Pesquisa:
+
+A pesquisa avançada deve estar disponivel para todos os usuarios (PJ/PF).
+
+RNF-7 Disponibilidade:
+
+A aplicação fica 24hrs por dia 7 dias da semana online.
+
+RNF-8 Identificação:
+
+Todos usuarios do sistema e identificado por um id especifico dado a ele no ato do cadastro.
+
+RNF-9 Publicação:
+
+Vagas publicadas em contas Free so duram 7 dias, contas Premium a escolha do cliente.
+
+RNF-10 Entrevista/Contratação:
+
+As empresas tem a opção de marcar uma entrevista com o candidato ou contrata-lo de imediato contrato e emitido em 24hrs.
+
+RNF-11 Contrato:
+
+O contrato deve ser assinado pelas duas partes e enviadas para DS-Vanilla para controle ficando com uma copia cada interessado.
+
+RNF-12 Candidatar-se:
+
+O usuario (PF), podera agendar entrevista mas se o mesmo faltar em mais de 3 entrevistas contas Free suspensas por 1 ano Premium 1 semana.
